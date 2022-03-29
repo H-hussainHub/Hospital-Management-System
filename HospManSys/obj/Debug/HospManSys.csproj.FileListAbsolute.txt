@@ -1,0 +1,23 @@
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\bin\Debug\HospManSys.exe.config
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\bin\Debug\HospManSys.exe
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\bin\Debug\HospManSys.pdb
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\bin\Debug\MySql.Data.dll
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\bin\Debug\Google.Protobuf.dll
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\bin\Debug\Renci.SshNet.dll
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\bin\Debug\MySql.Data.xml
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.csprojResolveAssemblyReference.cache
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.Properties.Resources.resources
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.csproj.GenerateResource.Cache
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.csproj.CoreCompileInputs.cache
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.exe
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.pdb
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.Login.resources
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.frmAppointmentManagement.resources
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.frmStaff.resources
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.frmFinance.resources
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.frmAdmin.resources
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.frmSeniorManagement.resources
+C:\Users\Myles\OneDrive - UWE Bristol (Students)\Documents\#Uni\Modules\Software Engineering\Assignment\Solution\HospManSys\HospManSys\obj\Debug\HospManSys.frmConsultant.resources
+D:\Users\Hamza\Documents\HospManSys\HospManSys\obj\Debug\HospManSys.pdb
